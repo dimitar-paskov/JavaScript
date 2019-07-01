@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shared Object</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>>
+</head>
+<body>
+< id="wrapper">
+    <input type="text" id="name">
+    <input type="text" id="income">
+    <input id="button" type="button" value="Submit">
+</div>
+<script src="EP05SharedObject.js"></script>
+<script>
+    let $button = $('#button');
+    $button.on('click', sharedObject.updateName());
+
+</script>
+</body>
+</html>

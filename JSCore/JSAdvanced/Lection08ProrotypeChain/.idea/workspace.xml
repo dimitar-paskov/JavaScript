@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="231a4715-93b9-4020-9802-34be97f0cd30" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="EP02People.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EP02People.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EP06Computer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EP06Computer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="64" column="54" selection-end-line="110" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EP07Mixins.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EP07Mixins.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" selection-end-line="30" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LabP01PersonAndTeacher.js" />
+        <option value="$PROJECT_DIR$/LabP03ExtendingPrototype.js" />
+        <option value="$PROJECT_DIR$/LabP04ClassHierarchy.js" />
+        <option value="$PROJECT_DIR$/LabP02InheritingToString.js" />
+        <option value="$PROJECT_DIR$/EP01Balloons.js" />
+        <option value="$PROJECT_DIR$/EP03Posts.js" />
+        <option value="$PROJECT_DIR$/EP02People.js" />
+        <option value="$PROJECT_DIR$/EP04Elemelons.js" />
+        <option value="$PROJECT_DIR$/EP05CSharpConsole.js" />
+        <option value="$PROJECT_DIR$/EP06Computer.js" />
+        <option value="$PROJECT_DIR$/EP07Mixins.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-69" />
+    <option name="y" value="-27" />
+    <option name="width" value="1331" />
+    <option name="height" value="764" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lection08ProrotypeChain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lection08ProrotypeChain" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.EP07Mixins.js">
+    <configuration name="EP03Posts.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="EP03Posts.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="EP04Elemelons.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="EP04Elemelons.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="EP07Mixins.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="EP07Mixins.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="EP05CSharpConsole.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/EP05CSharpConsole.js</test-file>
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.EP03Posts.js" />
+      <item itemvalue="Node.js.EP04Elemelons.js" />
+      <item itemvalue="Mocha.EP05CSharpConsole.js" />
+      <item itemvalue="Node.js.EP07Mixins.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.EP07Mixins.js" />
+        <item itemvalue="Mocha.EP05CSharpConsole.js" />
+        <item itemvalue="Node.js.EP04Elemelons.js" />
+        <item itemvalue="Node.js.EP03Posts.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="231a4715-93b9-4020-9802-34be97f0cd30" name="Default" comment="" />
+      <created>1541656765356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541656765356</updated>
+      <workItem from="1541656773277" duration="24843000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="EP05CSharpConsole_js - 2018.11.09 at 09h 30m 11s.xml">
+      <configuration name="EP05CSharpConsole.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="EP05CSharpConsole_js - 2018.11.09 at 09h 31m 46s.xml">
+      <configuration name="EP05CSharpConsole.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="EP05CSharpConsole_js - 2018.11.09 at 09h 31m 58s.xml">
+      <configuration name="EP05CSharpConsole.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="EP05CSharpConsole_js - 2018.11.09 at 09h 48m 31s.xml">
+      <configuration name="EP05CSharpConsole.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="EP05CSharpConsole_js - 2018.11.09 at 09h 50m 56s.xml">
+      <configuration name="EP05CSharpConsole.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="EP05CSharpConsole_js - 2018.11.09 at 09h 51m 07s.xml">
+      <configuration name="EP05CSharpConsole.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="EP05CSharpConsole_js - 2018.11.09 at 09h 52m 37s.xml">
+      <configuration name="EP05CSharpConsole.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="EP05CSharpConsole_js - 2018.11.09 at 09h 55m 42s.xml">
+      <configuration name="EP05CSharpConsole.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="EP05CSharpConsole_js - 2018.11.09 at 09h 56m 09s.xml">
+      <configuration name="EP05CSharpConsole.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="EP05CSharpConsole_js - 2018.11.09 at 09h 56m 31s.xml">
+      <configuration name="EP05CSharpConsole.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24843000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="33" y="-4" width="1333" height="772" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24961832" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32970452" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32970452" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39968896" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LabP01PersonAndTeacher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabP03ExtendingPrototype.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabP04ClassHierarchy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabP02InheritingToString.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EP01Balloons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EP05CSharpConsole.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="53" selection-start-line="53" selection-end-line="91" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EP04Elemelons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EP03Posts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EP02People.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EP06Computer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="64" column="54" selection-end-line="110" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EP07Mixins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

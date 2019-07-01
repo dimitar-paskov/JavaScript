@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
+        crossorigin="anonymous">
+
+    <link rel="stylesheet" href="style/styles.css">
+
+
+
+
+
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/handlebars/dist/handlebars.min.js"></script>
+    <script src="node_modules/sammy/lib/sammy.js"></script>
+    <script src="node_modules/sammy/lib/plugins/sammy.handlebars.js"></script>
+    <link rel="stylesheet" href="style/typography.css">
+    <link rel="stylesheet" href="style/forms.css">
+    <link rel="stylesheet" href="style/navigation.css">
+    <link rel="stylesheet" href="style/all.css">
+
+    <!--<style>-->
+        <!--div#loadingBox>span {-->
+            <!--background: #7CB3E9;-->
+            <!--border-radius: 5px;-->
+        <!--}-->
+
+        <!--div#infoBox>span {-->
+            <!--background: #009900;-->
+            <!--border-radius: 5px;-->
+
+        <!--}-->
+
+        <!--div#errorBox>span {-->
+            <!--background: #FF5500;-->
+            <!--border-radius: 5px;-->
+        <!--}-->
+    <!--</style>-->
+
+</head>
+
+<body>
+    <div id="container">
+
+    </div>
+    <div id="notifications">
+        <div id="loadingBox" class="notification">
+            <span>Loading …</span>
+        </div>
+        <div id="infoBox" class="notification">
+            <span>Info</span>
+        </div>
+        <div id="errorBox" class="notification">
+            <span>Error</span>
+        </div>
+    </div>
+
+    <script src="scripts/models/requester.js"></script>
+    <script src="scripts/models/notificationService.js"></script>
+    <script src="scripts/models/authService.js"></script>
+    <script src="scripts/models/crudService.js"></script>
+    <script src="scripts/app.js"></script>
+    <script src="scripts/controllers/homeController.js"></script>
+    <script src="scripts/controllers/authController.js"></script>
+    <script src="scripts/controllers/crudController.js"></script>
+
+</body>
+
+</html>

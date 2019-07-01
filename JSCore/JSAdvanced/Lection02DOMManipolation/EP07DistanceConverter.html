@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Distance Converter</title>
+    <!--<script src="distanceConverter.js"></script>-->
+    <style>
+        label, input {
+            display: inline-block;
+            width: 5em;
+        }
+
+        label {
+            text-align: right;
+        }
+    </style>
+</head>
+<body onload="attachEventsListeners()">
+<h1>Distance Converter</h1>
+<div>
+    <label for="inputDistance">From:</label>
+    <input type="text" id="inputDistance">
+    <select id="inputUnits">
+        <option value="km">Kilometers</option>
+        <option value="m">Meters</option>
+        <option value="cm">Centimeters</option>
+        <option value="mm">Millimeters</option>
+        <option value="mi">Miles</option>
+        <option value="yrd">Yards</option>
+        <option value="ft">Feet</option>
+        <option value="in">Inches</option>
+    </select>
+    <input type="button" id="convert" value="Convert">
+</div>
+<div>
+    <label for="outputDistance">To:</label>
+    <input type="text" id="outputDistance" disabled="disabled">
+    <select id="outputUnits">
+        <option value="km">Kilometers</option>
+        <option value="m">Meters</option>
+        <option value="cm">Centimeters</option>
+        <option value="mm">Millimeters</option>
+        <option value="mi">Miles</option>
+        <option value="yrd">Yards</option>
+        <option value="ft">Feet</option>
+        <option value="in">Inches</option>
+    </select>
+</div>
+<script>
+    function attachEventsListeners() {
+        document.getElementById('convert').addEventListener('click', convert);
+        function convert(event) {
+            let inVal = +document.getElementById('inputDistance').value;
+            let index = document.getElementById('inputUnits').selectedIndex;
+            let meters = 0;
+            let outVal = 0;
+            switch (index){
+                case 0 : {meters = inVal * 1000;break;}
+                case 1 : {meters = inVal; break;}
+                case 2 : {meters = inVal * 0.01; break}
+                case 3 : {meters = inVal * 0.001; break;}
+                case 4 : {meters = inVal * 1609.34; break;}
+                case 5 : {meters = inVal * 0.9144; break;}
+                case 6 : {meters = inVal * 0.3048; break;}
+                case 7 : {meters = inVal * 0.0254; break;}
+            }
+
+            index = document.getElementById('outputUnits').selectedIndex;
+
+            switch (index){
+                case 0 : {outVal = meters / 1000;break;}
+                case 1 : {outVal = meters; break;}
+                case 2 : {outVal = meters / 0.01; break}
+                case 3 : {outVal = meters / 0.001; break;}
+                case 4 : {outVal = meters / 1609.34; break;}
+                case 5 : {outVal = meters / 0.9144; break;}
+                case 6 : {outVal = meters / 0.3048; break;}
+                case 7 : {outVal = meters / 0.0254; break;}
+            }
+
+            document.getElementById('outputDistance').value = outVal;
+
+        }
+    }
+</script>
+</body>
+</html>

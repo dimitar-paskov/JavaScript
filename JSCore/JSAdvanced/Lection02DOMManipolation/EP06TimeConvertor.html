@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Time Converter</title>
+    <script src="timeConverter.js"></script>
+    <style>
+        label, input {
+            display: inline-block;
+            width: 5em;
+        }
+        label {
+            text-align: right;
+        }
+    </style>
+</head>
+<body onload="attachEventsListeners()">
+<h1>Time Converter</h1>
+<div>
+    <label for="days">Days: </label>
+    <input type="text" id="days">
+    <input id="daysBtn" type="button" value="Convert">
+</div>
+<div>
+    <label for="hours">Hours: </label>
+    <input type="text" id="hours">
+    <input id="hoursBtn" type="button" value="Convert">
+</div>
+<div>
+    <label for="minutes">Minutes: </label>
+    <input type="text" id="minutes">
+    <input id="minutesBtn" type="button" value="Convert">
+</div>
+<div>
+    <label for="seconds">Seconds: </label>
+    <input type="text" id="seconds">
+    <input id="secondsBtn" type="button" value="Convert">
+</div>
+<script>
+    function attachEventsListeners() {
+        let inputBtns = document.querySelectorAll('input:nth-child(3)');
+
+        for (let i = 0; i < inputBtns.length; i++){
+            inputBtns[i].addEventListener('click', calculate);
+        }
+        // inputBtns.forEach(x=>{
+        //     x.addEventListener('click', calculate);
+        // });
+
+        function calculate(event) {
+            let seconds = 0;
+            if(event.target.id === 'daysBtn'){
+                seconds = +event.target.previousElementSibling.value * 86400;
+                print();
+            }else if (event.target.id === 'hoursBtn'){
+                seconds = +event.target.previousElementSibling.value * 3600;
+                print();
+            }else if (event.target.id === 'minutesBtn'){
+                seconds = +event.target.previousElementSibling.value * 60;
+                print();
+            }else if (event.target.id === 'secondsBtn'){
+                seconds = +event.target.previousElementSibling.value;
+                print();
+            }
+
+            function print() {
+                document.getElementById('days').value = seconds / 86400;
+                document.getElementById('hours').value = seconds / 3600;
+                document.getElementById('minutes').value = seconds / 60;
+                document.getElementById('seconds').value = seconds;
+
+            }
+        }
+    }
+
+
+</script>
+</body>
+</html>

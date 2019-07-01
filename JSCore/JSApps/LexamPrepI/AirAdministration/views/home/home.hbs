@@ -1,0 +1,19 @@
+{{> nav}}
+<section id="viewCatalog" class="background-img">
+
+    {{#if loggedIn}}
+        <a href="#/create" class="add-flight">Add Flight +</a>
+
+        <div class="added-flights">
+
+            {{#each flights}}
+                {{> flight}}
+            {{else}}
+                <p class="no-cars">No flights in database.</p>
+            {{/each}}
+        </div>
+    {{else}}
+    {{/if}}
+
+</section>
+{{> footer}}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" type="text/css" href="./styles.css">
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<header>
+    This is the Book Site
+</header>
+<div class="formin">
+    <form action="add">
+        <input id="title" type="text" placeholder="title">
+        <input id="author" type="text" placeholder="author">
+        <input id="isbn" type="text" placeholder="isbn">
+        <button type="submit" id="create">Submit</button>
+    </form>
+</div>
+
+<div class="formin">
+
+        <button type="button" id="loadall">Load All</button>
+
+</div>
+
+<div id="container">
+    <span data-id="key">
+        <ul class="book">
+            <li>Title</li>
+            <li>Author</li>
+            <li>12345678</li>
+            <button>Edit</button>
+            <button>Delete</button>
+        </ul>
+
+    </span>
+
+</div>
+
+
+
+<footer>
+    Powered by D.P.Dimitrov
+</footer>
+<script src="books.js"></script>
+</body>
+</html>

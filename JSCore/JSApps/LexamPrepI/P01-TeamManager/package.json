@@ -1,0 +1,11 @@
+{
+  "name": "P01-Team-Manager",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "latest",
+    "handlebars": "latest",
+    "sammy": "latest",
+    "bootstrap": "latest",
+    "popper.js": "^1.12.9"
+  }
+}

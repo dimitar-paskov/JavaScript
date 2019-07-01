@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let textbox = document.createElement('input');
+    textbox.type = 'text';
+    textbox.value = "I am a text box";
+        document.body.appendChild(textbox); //don't use onclick / onfocus
+    textbox.addEventListener('focus', focusHandler);
+    function focusHandler(event) {
+        textbox.value = "Event handler removed";
+        textbox.removeEventListener('focus', focusHandler);
+    }
+</script>
+
+</body>
+</html>

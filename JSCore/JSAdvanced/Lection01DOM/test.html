@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="first" class="big">First <b>DIV</b></div>
+<script>
+    let div = document.getElementById('first');
+    console.log(div.id); // first
+    console.log(div.tagName); // DIV
+    console.log(div.className); // big
+    console.log(div.textContent); // First DIV
+    console.log(div.innerHTML); // First <b>DIV</b>
+    console.log(div.outerHTML); // <div id="first"
+
+    console.log(screen.width + " x " + screen.height);
+    document.location = "https://softuni.bg";
+    let intervalID = setInterval(
+        function() {
+            console.log("1 sec. passed");
+        },
+        7000
+    );
+    history.back();
+</script>
+</body>
+</html>

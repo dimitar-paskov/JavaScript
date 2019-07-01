@@ -1,0 +1,10 @@
+{{> nav}}
+<section id="viewMyFlights">
+    <h3>Your Flights</h3>
+    {{#each flights}}
+        {{> myFlight}}
+    {{else}}
+        <p class="no-cars">No flights in database.</p>
+    {{/each}}
+</section>
+{{> footer}}

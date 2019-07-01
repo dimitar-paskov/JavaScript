@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75c1863b-357c-4ce6-9ce6-fb8ff4f4ebf1" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="EP02Calculator.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Lection11ExamPrepII/EP02Calculator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="48" column="55" lean-forward="true" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tests.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Lection11ExamPrepII/tests/tests.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="170" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EP03BookCollection.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Lection11ExamPrepII/EP03BookCollection.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EP04OnlineShop.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Lection11ExamPrepII/EP04OnlineShop.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="76" column="21" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="solution04.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Lection11ExamPrepII/solution04.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="50" column="83" selection-end-line="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="solution04Prim.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Lection11ExamPrepII/solution04Prim.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="63" column="9" lean-forward="true" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/EP01StickyNotes.html" />
+        <option value="$PROJECT_DIR$/solution01.js" />
+        <option value="$PROJECT_DIR$/tests/tests.js" />
+        <option value="$PROJECT_DIR$/EP02Calculator.js" />
+        <option value="$PROJECT_DIR$/../Lection11ExamPrepII/Calculator.js" />
+        <option value="$PROJECT_DIR$/../Lection11ExamPrepII/EP02Calculator.js" />
+        <option value="$PROJECT_DIR$/../Lection11ExamPrepII/tests/tests.js" />
+        <option value="$PROJECT_DIR$/../Lection11ExamPrepII/EP03BookCollection.js" />
+        <option value="$PROJECT_DIR$/../Lection11ExamPrepII/EP04OnlineShop.html" />
+        <option value="$PROJECT_DIR$/../Lection11ExamPrepII/solution04Prim.js" />
+        <option value="$PROJECT_DIR$/../Lection11ExamPrepII/solution04.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/assertion-error/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/browser-stdout/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/chai/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/check-error/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/deep-eql/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/diff/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/get-func-name/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/growl/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/he/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/mocha/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/pathval/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/type-detect/package.json" />
+      <path value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/wrappy/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lection10ExamPrepII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lection11ExamPrepII" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/../Lection11ExamPrepII/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.EP03BookCollection.js">
+    <configuration name="EP02Calculator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../Lection11ExamPrepII/EP02Calculator.js" working-dir="$PROJECT_DIR$/../Lection11ExamPrepII" />
+    <configuration name="EP03BookCollection.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="EP03BookCollection.js" working-dir="$PROJECT_DIR$/../Lection11ExamPrepII" />
+    <configuration name="Mocha" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$/../Lection11ExamPrepII</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/../Lection11ExamPrepII/tests/tests.js</test-file>
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.Mocha" />
+      <item itemvalue="Node.js.EP02Calculator.js" />
+      <item itemvalue="Node.js.EP03BookCollection.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.EP03BookCollection.js" />
+        <item itemvalue="Node.js.EP02Calculator.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75c1863b-357c-4ce6-9ce6-fb8ff4f4ebf1" name="Default" comment="" />
+      <created>1542365397128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542365397128</updated>
+      <workItem from="1542365404726" duration="5452000" />
+      <workItem from="1542372354202" duration="19208000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Mocha - 2018.11.16 at 15h 54m 38s.xml">
+      <configuration name="Mocha" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha - 2018.11.16 at 15h 55m 37s.xml">
+      <configuration name="Mocha" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha - 2018.11.16 at 15h 58m 53s.xml">
+      <configuration name="Mocha" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha - 2018.11.16 at 16h 00m 14s.xml">
+      <configuration name="Mocha" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha - 2018.11.16 at 16h 00m 31s.xml">
+      <configuration name="Mocha" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha - 2018.11.16 at 16h 02m 24s.xml">
+      <configuration name="Mocha" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha - 2018.11.16 at 16h 02m 47s.xml">
+      <configuration name="Mocha" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha - 2018.11.16 at 16h 03m 39s.xml">
+      <configuration name="Mocha" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha - 2018.11.16 at 16h 05m 02s.xml">
+      <configuration name="Mocha" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha - 2018.11.16 at 16h 05m 16s.xml">
+      <configuration name="Mocha" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24660000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="33" y="-4" width="1333" height="772" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24961832" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32970452" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32970452" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32970452" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Lection11ExamPrepII/EP01StickyNotes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="88" column="29" selection-start-line="88" selection-start-column="22" selection-end-line="88" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lection11ExamPrepII/solution01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lection11ExamPrepII/EP02Calculator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lection11ExamPrepII/tests/tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lection11ExamPrepII/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lection11ExamPrepII/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lection11ExamPrepII/solution01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lection11ExamPrepII/EP01StickyNotes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="88" column="29" selection-start-line="88" selection-start-column="22" selection-end-line="88" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lection11ExamPrepII/EP02Calculator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="48" column="55" lean-forward="true" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lection11ExamPrepII/tests/tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="170" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lection11ExamPrepII/EP03BookCollection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lection11ExamPrepII/EP04OnlineShop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="76" column="21" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lection11ExamPrepII/solution04Prim.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="63" column="9" lean-forward="true" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lection11ExamPrepII/solution04.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="50" column="83" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

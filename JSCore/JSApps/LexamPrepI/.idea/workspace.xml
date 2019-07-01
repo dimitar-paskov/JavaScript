@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89f62ca1-edc7-436a-8207-703bf27b4847" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PetMyPet/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PetMyPet/scripts/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-60">
+              <caret line="23" column="34" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="authController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PetMyPet/scripts/controllers/authController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="70" column="26" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crudController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PetMyPet/scripts/controllers/crudController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2470">
+              <caret line="350" column="56" selection-start-line="350" selection-start-column="51" selection-end-line="350" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homeController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PetMyPet/scripts/controllers/homeController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notificationService.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PetMyPet/scripts/models/notificationService.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nav.hbs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PetMyPet/views/common/nav.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>HANDLERS</find>
+      <find>Handler</find>
+      <find>Cars</find>
+      <find>Car</find>
+      <find>notify</find>
+      <find>Flight</find>
+      <find>petDetailsGetController</find>
+      <find>editPetGetController</find>
+      <find>myPetsGetController</find>
+      <find>flight</find>
+      <find>listPetsController</find>
+      <find>errorBox</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>CONTROLLERS</replace>
+      <replace>Controller</replace>
+      <replace>Flights</replace>
+      <replace>Flight</replace>
+      <replace>Pet</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/carTube/scripts/controllers</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AirAdministration/scripts/models/authService.js" />
+        <option value="$PROJECT_DIR$/AirAdministration/scripts/models/notificationService.js" />
+        <option value="$PROJECT_DIR$/AirAdministration/scripts/controllers/homeController.js" />
+        <option value="$PROJECT_DIR$/AirAdministration/views/register/registerPage.hbs" />
+        <option value="$PROJECT_DIR$/AirAdministration/views/login/loginPage.hbs" />
+        <option value="$PROJECT_DIR$/carTube/scripts/models/requester.js" />
+        <option value="$PROJECT_DIR$/carTube/scripts/models/crudService.js" />
+        <option value="$PROJECT_DIR$/AirAdministration/views/listings/flight.hbs" />
+        <option value="$PROJECT_DIR$/AirAdministration/views/home/home.hbs" />
+        <option value="$PROJECT_DIR$/AirAdministration/views/create/createPage.hbs" />
+        <option value="$PROJECT_DIR$/AirAdministration/views/listings/details.hbs" />
+        <option value="$PROJECT_DIR$/AirAdministration/scripts/app.js" />
+        <option value="$PROJECT_DIR$/AirAdministration/scripts/models/crudService.js" />
+        <option value="$PROJECT_DIR$/AirAdministration/views/mylistings/myFlight.hbs" />
+        <option value="$PROJECT_DIR$/AirAdministration/views/mylistings/myFlightsPage.hbs" />
+        <option value="$PROJECT_DIR$/AirAdministration/scripts/controllers/crudController.js" />
+        <option value="$PROJECT_DIR$/AirAdministration/views/edit/editPage.hbs" />
+        <option value="$PROJECT_DIR$/AirAdministration/scripts/models/requester.js" />
+        <option value="$PROJECT_DIR$/AirAdministration/scripts/controllers/authController.js" />
+        <option value="$PROJECT_DIR$/carTube/style/notifications.css" />
+        <option value="$PROJECT_DIR$/AirAdministration/static/css/style.css" />
+        <option value="$PROJECT_DIR$/AirAdministration/views/common/nav.hbs" />
+        <option value="$PROJECT_DIR$/AirAdministration/index.html" />
+        <option value="$PROJECT_DIR$/PetMyPet/views/home/home.hbs" />
+        <option value="$PROJECT_DIR$/PetMyPet/views/home/welcome.hbs" />
+        <option value="$PROJECT_DIR$/PetMyPet/views/mylistings/myFlight.hbs" />
+        <option value="$PROJECT_DIR$/PetMyPet/views/delete/deleteMyPet.hbs" />
+        <option value="$PROJECT_DIR$/PetMyPet/views/common/footer.hbs" />
+        <option value="$PROJECT_DIR$/PetMyPet/scripts/models/requester.js" />
+        <option value="$PROJECT_DIR$/PetMyPet/views/register/registerPage.hbs" />
+        <option value="$PROJECT_DIR$/PetMyPet/views/login/loginPage.hbs" />
+        <option value="$PROJECT_DIR$/PetMyPet/views/create/createPage.hbs" />
+        <option value="$PROJECT_DIR$/PetMyPet/views/listings/dashboardPage.hbs" />
+        <option value="$PROJECT_DIR$/PetMyPet/views/common/nav.hbs" />
+        <option value="$PROJECT_DIR$/PetMyPet/views/mylistings/myPetsPage.hbs" />
+        <option value="$PROJECT_DIR$/PetMyPet/views/mylistings/detailsMyPet.hbs" />
+        <option value="$PROJECT_DIR$/PetMyPet/views/edit/editMyPet.hbs" />
+        <option value="$PROJECT_DIR$/PetMyPet/views/edit/editPage.hbs" />
+        <option value="$PROJECT_DIR$/PetMyPet/views/delete/deleteMyPetPage.hbs" />
+        <option value="$PROJECT_DIR$/PetMyPet/views/listings/pet.hbs" />
+        <option value="$PROJECT_DIR$/PetMyPet/views/mylistings/myPet.hbs" />
+        <option value="$PROJECT_DIR$/PetMyPet/scripts/models/crudService.js" />
+        <option value="$PROJECT_DIR$/PetMyPet/scripts/controllers/homeController.js" />
+        <option value="$PROJECT_DIR$/PetMyPet/scripts/controllers/authController.js" />
+        <option value="$PROJECT_DIR$/PetMyPet/scripts/app.js" />
+        <option value="$PROJECT_DIR$/PetMyPet/scripts/controllers/crudController.js" />
+        <option value="$PROJECT_DIR$/PetMyPet/views/listings/details.hbs" />
+        <option value="$PROJECT_DIR$/PetMyPet/style/notifications.css" />
+        <option value="$PROJECT_DIR$/PetMyPet/style/all.css" />
+        <option value="$PROJECT_DIR$/PetMyPet/index.html" />
+        <option value="$PROJECT_DIR$/PetMyPet/scripts/models/notificationService.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/AirAdministration/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Airline Administration/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Exam Prep - JS Apps Exam Airline Administration Application/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Exam Prep - JS Apps Exam CarTube Single Page Application/node_modules" />
+    <handled-path value="$PROJECT_DIR$/P01-TeamManager/node_modules" />
+    <handled-path value="$PROJECT_DIR$/PetMyPet/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Solution/node_modules" />
+    <handled-path value="$PROJECT_DIR$/carTube/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/AirAdministration/package.json" />
+      <path value="$PROJECT_DIR$/Airline Administration/package.json" />
+      <path value="$PROJECT_DIR$/Exam Prep - JS Apps Exam Airline Administration Application/package.json" />
+      <path value="$PROJECT_DIR$/Exam Prep - JS Apps Exam CarTube Single Page Application/package.json" />
+      <path value="$PROJECT_DIR$/P01-TeamManager/package.json" />
+      <path value="$PROJECT_DIR$/PetMyPet/package.json" />
+      <path value="$PROJECT_DIR$/Solution/package.json" />
+      <path value="$PROJECT_DIR$/carTube/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LexamPrepI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LexamPrepI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LexamPrepI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LexamPrepI" type="462c0819:PsiDirectoryNode" />
+              <item name="PetMyPet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LexamPrepI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LexamPrepI" type="462c0819:PsiDirectoryNode" />
+              <item name="PetMyPet" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LexamPrepI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LexamPrepI" type="462c0819:PsiDirectoryNode" />
+              <item name="PetMyPet" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LexamPrepI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LexamPrepI" type="462c0819:PsiDirectoryNode" />
+              <item name="PetMyPet" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LexamPrepI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LexamPrepI" type="462c0819:PsiDirectoryNode" />
+              <item name="PetMyPet" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LexamPrepI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LexamPrepI" type="462c0819:PsiDirectoryNode" />
+              <item name="PetMyPet" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LexamPrepI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LexamPrepI" type="462c0819:PsiDirectoryNode" />
+              <item name="PetMyPet" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LexamPrepI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LexamPrepI" type="462c0819:PsiDirectoryNode" />
+              <item name="PetMyPet" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="create" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LexamPrepI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LexamPrepI" type="462c0819:PsiDirectoryNode" />
+              <item name="PetMyPet" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="delete" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LexamPrepI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LexamPrepI" type="462c0819:PsiDirectoryNode" />
+              <item name="PetMyPet" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="edit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LexamPrepI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LexamPrepI" type="462c0819:PsiDirectoryNode" />
+              <item name="PetMyPet" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LexamPrepI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LexamPrepI" type="462c0819:PsiDirectoryNode" />
+              <item name="PetMyPet" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="listings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LexamPrepI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LexamPrepI" type="462c0819:PsiDirectoryNode" />
+              <item name="PetMyPet" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LexamPrepI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LexamPrepI" type="462c0819:PsiDirectoryNode" />
+              <item name="PetMyPet" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="mylistings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LexamPrepI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LexamPrepI" type="462c0819:PsiDirectoryNode" />
+              <item name="PetMyPet" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="register" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/carTube/scripts/controllers" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/carTube" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PetMyPet" />
+      <recent name="$PROJECT_DIR$/AirAdministration/scripts/controllers" />
+      <recent name="$PROJECT_DIR$/AirAdministration" />
+      <recent name="$PROJECT_DIR$/carTube/views/login" />
+      <recent name="$PROJECT_DIR$/carTube/scripts/controllers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89f62ca1-edc7-436a-8207-703bf27b4847" name="Default" comment="" />
+      <created>1544527760199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544527760199</updated>
+      <workItem from="1544527763173" duration="3949000" />
+      <workItem from="1544539645079" duration="7996000" />
+      <workItem from="1544547783799" duration="27972000" />
+      <workItem from="1544697312195" duration="42012000" />
+      <workItem from="1544967656761" duration="1060000" />
+      <workItem from="1544971179681" duration="21279000" />
+      <workItem from="1545025026999" duration="10336000" />
+      <workItem from="1545154825403" duration="5000" />
+      <workItem from="1545155554536" duration="3000" />
+      <workItem from="1545928207689" duration="807000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="115419000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="33" y="-4" width="1333" height="772" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20839694" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32970452" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.28460342" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32970452" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Solution/scripts/carsService.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/scripts/auth.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/scripts/notify.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="164" column="26" selection-start-line="164" selection-start-column="20" selection-end-line="164" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AirAdministration/scripts/models/notificationService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AirAdministration/scripts/models/authService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AirAdministration/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="68" lean-forward="true" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carTube/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carTube/scripts/models/notificationService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carTube/scripts/controllers/authController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/pets.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/views/home/home.hbs" />
+    <entry file="file://$PROJECT_DIR$/PetMyPet/views/common/footer.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/scripts/models/requester.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AirAdministration/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="29" selection-start-line="29" selection-end-line="36" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AirAdministration/views/common/nav.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AirAdministration/views/register/registerPage.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AirAdministration/scripts/controllers/authController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/views/register/registerPage.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="48" lean-forward="true" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/views/login/loginPage.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AirAdministration/views/listings/details.hbs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AirAdministration/views/listings/flight.hbs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AirAdministration/views/mylistings/myFlight.hbs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/views/mylistings/myPetsPage.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/views/mylistings/detailsMyPet.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/views/edit/editMyPet.hbs" />
+    <entry file="file://$PROJECT_DIR$/AirAdministration/scripts/controllers/crudController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="143" column="5" selection-start-line="139" selection-start-column="14" selection-end-line="143" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AirAdministration/views/home/home.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/views/delete/deleteMyPetPage.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/views/edit/editPage.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/views/mylistings/myPet.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/scripts/models/crudService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/views/listings/pet.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/views/create/createPage.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/views/home/welcome.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/views/listings/dashboardPage.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/views/listings/details.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/style/navigation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/style/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/style/notifications.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/scripts/models/authService.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/style/all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2985">
+          <caret line="199" column="23" selection-start-line="199" selection-start-column="23" selection-end-line="199" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/scripts/controllers/authController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="70" column="26" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/scripts/controllers/crudController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2470">
+          <caret line="350" column="56" selection-start-line="350" selection-start-column="51" selection-end-line="350" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/scripts/controllers/homeController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/scripts/models/notificationService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PetMyPet/views/common/nav.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
